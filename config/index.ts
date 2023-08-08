@@ -1,13 +1,13 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = ''
-export const API_KEY = ''
+export const APP_ID = 'US0HydN2hWoxExcu'
+export const API_KEY = 'app-XW15bVnFBNfsh6TeFqsKj371'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
-  copyright: '',
-  privacy_policy: '',
-  default_language: 'zh-Hans',
+  title: 'Derma Laser Clinic',
+  description: 'Dr. Jospheen Clinic',
+  copyright: '@2023 Hany Girgis',
+  privacy_policy: 'By Hany Girgis',
+  default_language: 'en',
 }
 
 export const isShowPrompt = false
